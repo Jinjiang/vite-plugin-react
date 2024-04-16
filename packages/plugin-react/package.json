@@ -1,6 +1,6 @@
 {
-  "name": "@vitejs/plugin-react",
-  "version": "4.2.1",
+  "name": "@jinjiang-dev/vitejs-plugin-react",
+  "version": "0.0.1",
   "license": "MIT",
   "author": "Evan You",
   "contributors": [
